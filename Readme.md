@@ -53,10 +53,10 @@ todo-list/
 * Edit existing tasks
 * Add task deadlines
 * Drag-and-drop task sorting
+* Add Light Theme
 
 ---
 
 ## License
 
 This project is open-source and available for learning and practice.
-gi
